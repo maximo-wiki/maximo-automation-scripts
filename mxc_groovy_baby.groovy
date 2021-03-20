@@ -1,5 +1,6 @@
 # Groovy automation script for IBM Maximo to retrieve
-# OS, memory and garbage collection info  
+# OS, memory and garbage collection info 
+# Maximo Wiki 2021 https://maximo.wiki 
 
 # See blog post by Rana Ahmed for steps to add Groovy language support to IBM Maximo
 # https://maximomize.wordpress.com/2020/01/27/add-groovy-support-to-ibm-maximo-icd/
